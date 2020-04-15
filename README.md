@@ -7,7 +7,7 @@ Autonomous Vehicle Brain Monitor System
 
 ## Clip
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=jtP-EtAEDgA&t=00s
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=jtP-EtAEDgA&t=00s)
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=jtP-EtAEDgA&t=00s)
